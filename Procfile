@@ -1,1 +1,1 @@
-web: gunicorn ML_Deployment.wsgi
+web: python Deploy_Random_Forest_Classifier.py
