@@ -1,1 +1,1 @@
-web:gunicorn Deploy_Random_Forest_Classifier:app
+web:gunicorn Deploy_Random_Forest_Classifier.wsgi
