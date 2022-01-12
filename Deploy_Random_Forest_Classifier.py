@@ -6,7 +6,7 @@
 # In[1]:
 
 
-pip install nsepy
+#pip install nsepy
 
 
 # In[2]:
