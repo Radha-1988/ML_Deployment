@@ -47,7 +47,8 @@ DRL_revised
 # In[8]:
 
 
-Polarity = pd.read_excel("C:/Users/sanyo/OneDrive - Indian School of Business/Term2/Foudation_Project/FinalOutput.xlsx")
+# Polarity = pd.read_excel("C:/Users/sanyo/OneDrive - Indian School of Business/Term2/Foudation_Project/FinalOutput.xlsx")
+Polarity = pd.read_excel("https://github.com/Radha-1988/ML_Deployment/blob/main/FinalOutput.xlsx?raw=true")
 
 
 # In[9]:
