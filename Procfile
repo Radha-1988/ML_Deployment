@@ -1,1 +1,1 @@
-web:gunicorn Deploy_Random_Forest_Classifier.wsgi
+web: gunicorn ML_Deployment.wsgi
