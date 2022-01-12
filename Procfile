@@ -1,1 +1,1 @@
-web: gunicorn rkdeployment1.wsgi
+web:gunicorn Deploy_Random_Forest_Classifier:app
